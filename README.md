@@ -13,5 +13,7 @@ Instructions for running docker container:
 
     4. Inside Jupyter open up the notebook:
         notebook/spotify_analysis.ipynb
+
+    5. Going forward you can run the STAT315FinalProject container through the Docker Desktop application
     
     
