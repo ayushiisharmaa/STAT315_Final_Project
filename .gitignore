@@ -1,12 +1,6 @@
-# Ignore macOS junk
 .DS_Store
 
-# Ignore Python cache
 __pycache__/
 *.pyc
 
-# Ignore all CSV files in data folder
 data/*.csv
-
-# If you want to ignore ALL data files, optionally:
-# data/*
