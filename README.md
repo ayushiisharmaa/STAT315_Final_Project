@@ -1,6 +1,7 @@
 # STAT315_Final_Project
 
 Instructions for running docker container:
+
     1. Pull the docker image by running the following:
         docker pull bandarim/spotify-final-project:latest
     
