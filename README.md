@@ -16,7 +16,7 @@
         http://localhost:9999/
 ```
 
-###    4. Inside Jupyter open up the notebook:
+###    4. Inside Jupyter open up the notebook located in the notebook directory and complete analysis:
 ```bash
         notebook/spotify_analysis.ipynb
 ```
